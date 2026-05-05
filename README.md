@@ -1,6 +1,6 @@
 # 👨‍💻 Valentim Neto
 
-**`Analista de Sistemas e Dados`**
+**`Engenheiro`**
 
  Meu nome é Valentim, sou estudante de Engenharia de Sistemas na UFMG. Sou apaixonado por tecnologia e seu potencial para resolver problemas complexos, impulsionar a inovação e criar um impacto positivo na sociedade. Busco continuamente novos desafios que me permitam expandir meus conhecimentos, desenvolver soluções eficientes e contribuir ativamente para o avanço das áreas de tecnologia e dados.
 
